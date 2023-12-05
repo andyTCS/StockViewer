@@ -1,0 +1,33 @@
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe.config
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.pdb
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.AssemblyReference.cache
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form1.resources
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Properties.Resources.resources
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.GenerateResource.cache
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.CoreCompileInputs.cache
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.exe
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.pdb
+C:\Users\andyxn\source\repos\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form2.resources
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe.config
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.pdb
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.AssemblyReference.cache
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form1.resources
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form2.resources
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Properties.Resources.resources
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.GenerateResource.cache
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.exe
+C:\Users\Andy Nguyen\source\repos\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.pdb
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe.config
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.exe
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\bin\Debug\project2_stockDisplay.pdb
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.AssemblyReference.cache
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form1.resources
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Form2.resources
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.Properties.Resources.resources
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.GenerateResource.cache
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.exe
+C:\Users\Andy Nguyen\Downloads\project2_stockDisplay_new\project2_stockDisplay\project2_stockDisplay\project2_stockDisplay\obj\Debug\project2_stockDisplay.pdb
